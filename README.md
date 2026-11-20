@@ -1,1 +1,1 @@
-# AF5-Pendulo-Robot
+Simulaciones de modelado y simulacion de sistemas mecatronicos
